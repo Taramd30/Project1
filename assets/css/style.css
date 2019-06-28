@@ -1,0 +1,100 @@
+* body {
+    font: 40px;
+     font-family: 'Raleway', sans-serif;
+    line-height: 1.8;
+    color: whitesmoke;
+}
+h3{
+    font-size: 40px;
+    color: #fec042;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
+}
+/*.margin {
+    
+    margin-bottom: 45px;
+}*/
+/* Beer Me Logo Location */
+.bg-1 {
+    background: black;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font: 20px;
+}
+/* Search Bar Section */
+.bg-2 {
+    background: black;
+    color: #fec042;
+    font-family: 'Raleway', sans-serif;
+    font: 40px;
+}
+/* About Section */
+.bg-3 {
+    background-color: #ffffff;
+    /* White */
+    color: #555555;
+    font-family: 'Raleway', sans-serif;
+    font: 20px;
+}
+/* Meet the Team*/
+.bg-4 {
+    background-color: #2f2f2f;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font: 15px;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color:#fec042;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    letter-spacing: 5px;
+    color:#fec042;
+}
+.navbar-nav li a:hover {
+    color:#fec042 !important;
+}
+#map {
+    height: 400px;
+    width: 100%;
+  }
+#myModal {
+    height: 400px;
+    width: 100%;
+  }
+  /* Optional: Makes the sample page fill the window. */
+  
+input[type=text] {
+    padding:3px; 
+    border:1px solid white; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+input[type=submit]{
+    background-color: white;
+    border: 1px transparent;
+    color: #fec042;
+    padding: 15px 10px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 13px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+      
